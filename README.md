@@ -1,6 +1,6 @@
 # OrangeRec 下一代生成式多模态推荐系统
 
-前后端分离项目。详见 [dev.md](dev.md)。
+详见 [dev.md](dev.md)。
 
 ## 技术栈
 
